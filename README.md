@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @pravatdey
-- 👀 I’m interested in IT industry for a Developer post and always developed new this which are needed by Human Life, And Always waiting new challenges.
-- 🌱  I have completed MCA 
-- 💞️ I’m looking to a good oopportunities when i bulid my carrer and enchanced my technical skills.
-- 
+# Hi there, I'm Pravat Kumar Dey! 👋
 
-<!---
-pravatdey/pravatdey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I'm a freelance Java developer with a passion for building high-quality software solutions. With 1.6 years of experience, I've had the opportunity to work on a variety of projects for clients around the world. I'm always eager to take on new challenges.
+
+- ...
+
+## 💼 Skills
+
+- Programming Languages: Java
+- Frameworks & Libraries: Spring Boot, Hibernate
+- Distributed Technologies: Restful Services, Microservices
+- Databases: MySQL, MongoDB, PostgreSQL
+- Tools & Technologies: Git, Maven, Docker, Kubernetes, Jenkins, Docker, Postman, Kafka
+- ...
+
+## 📫 How to reach me
+
+- Email: pravatkumardey0@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pravat-kumar-dey-23a448228
+- ...
+
+## 🤝 Let's connect
+
+I'm always open to new freelance opportunities and collaborations. If you have a project in mind or just want to chat about Java development, feel free to reach out!
+
